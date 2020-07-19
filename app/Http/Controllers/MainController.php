@@ -65,6 +65,7 @@ class MainController extends Controller
 
         // return $request->comment;
     }
+    function test(){}
 
 }
 
